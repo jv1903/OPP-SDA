@@ -36,4 +36,5 @@ Acesse o sistema no navegador em: (http://localhost:8080/opp%20sda/Classes/oop.c
 Visualize as informações dos animais, adotantes e interaja conforme a lógica implementada.
 
 imagem do projeto: 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/bd6ab48d-c556-4f87-a9a1-a534f951ccf8" />
+<img width="960" alt="Captura de tela 2025-06-25 121510" src="https://github.com/user-attachments/assets/02f7da43-0376-4153-af87-28f472e29040" />
+
